@@ -1,0 +1,7 @@
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\bin\Debug\Task1.exe.config
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\bin\Debug\Task1.exe
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\bin\Debug\Task1.pdb
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\obj\Debug\Task1.exe
+E:\GenericConstraints\GenericConstraints\GenericConstraints\Task1\obj\Debug\Task1.pdb
