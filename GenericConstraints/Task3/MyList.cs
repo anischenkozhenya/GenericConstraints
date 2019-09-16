@@ -55,7 +55,7 @@
             {
                 str += array[i] + " ";
             }
-            return "Длина массива: " + array.Length + "\nЭлементы массива: " + str;
+            return "Элементы массива: " + str;
         }
     }
 }
